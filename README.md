@@ -83,8 +83,11 @@ This dashboard can be adapted for:
 
 ## 📂 Project Files
 
-- `Sales_Performance_Dashboard.xlsx` – Main Excel file with dashboard and dataset  
+- `Sales_Performance_Dashboard.xlsx` – Excel dashboard file with dataset  
 - `README.md` – Project documentation  
+- `screenshot1.png` – Main dashboard overview screenshot1  
+- `screenshot2.png` –  Main dashboard overview screenshot2  
+
 
 ---
 
