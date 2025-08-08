@@ -75,7 +75,9 @@ This dashboard can be adapted for:
 
 ## 📷 Screenshot
 
-![Sales Performance Dashboard Screenshot](screenshot.png)
+![Sales Performance Dashboard Screenshot](screenshot1.png)
+![Sales Performance Dashboard Screenshot](screenshot2.png)
+
 
 ---
 
